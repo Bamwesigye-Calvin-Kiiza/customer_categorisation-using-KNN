@@ -21,7 +21,7 @@ The dataset contains demographic information including features like region, age
 
 ## Files
 
-- `telecom_customer_segmentation.ipynb`: Jupyter notebook containing the code for data preprocessing, model training, and evaluation.
+- `customer_categorisation _using_KNN.ipynb`: Jupyter notebook containing the code for data preprocessing, model training, and evaluation.
 
 ## Usage
 
