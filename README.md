@@ -5,6 +5,12 @@
 This repository contains code and a dataset for building a classification model to predict customer segmentation based on demographic data. The goal is to categorize customers into one of four groups (Basic Service, E-Service, Plus Service, Total Service) using K-Nearest Neighbors (KNN) algorithm.
 
 ## Dataset
+### Downloading the Dataset
+
+The dataset is hosted online. You can download it using the following link:
+
+[teleCust1000t.csv](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-ML0101EN-SkillsNetwork/labs/Module%203/data/teleCust1000t.csv)
+
 
 The dataset contains demographic information including features like region, age, and marital status. The target variable, `custcat`, has four possible values representing the customer groups.
 
